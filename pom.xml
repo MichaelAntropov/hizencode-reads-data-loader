@@ -12,7 +12,7 @@
 	<artifactId>hizencode-reads-data-loader</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hizencode-reads-data-loader</name>
-	<description>Hizencode Reads</description>
+	<description>Hizencode Reads data loader</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
