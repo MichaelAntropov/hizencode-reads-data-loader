@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Secure connection to Astra zip ###
+/src/main/resources/secure-connect-hizencode-reads.zip
